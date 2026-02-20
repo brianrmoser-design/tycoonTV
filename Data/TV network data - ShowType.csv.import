@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dj1wogcuqwov2"
+
+[deps]
+
+files=["res://Data/TV network data - ShowType.Type Name.translation", "res://Data/TV network data - ShowType.Default Order.translation", "res://Data/TV network data - ShowType.Production Frequency.translation", "res://Data/TV network data - ShowType.Default Duration (mins).translation"]
+
+source_file="res://Data/TV network data - ShowType.csv"
+dest_files=["res://Data/TV network data - ShowType.Type Name.translation", "res://Data/TV network data - ShowType.Default Order.translation", "res://Data/TV network data - ShowType.Production Frequency.translation", "res://Data/TV network data - ShowType.Default Duration (mins).translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

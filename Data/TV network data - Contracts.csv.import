@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://4hrlcybnog74"
+
+[deps]
+
+files=["res://Data/TV network data - Contracts.Show_ID.translation", "res://Data/TV network data - Contracts.Person_ID.translation", "res://Data/TV network data - Contracts.Person.translation", "res://Data/TV network data - Contracts.Show.translation", "res://Data/TV network data - Contracts.SalaryPerEp.translation", "res://Data/TV network data - Contracts.ContractExpYears.translation", "res://Data/TV network data - Contracts.Role.translation"]
+
+source_file="res://Data/TV network data - Contracts.csv"
+dest_files=["res://Data/TV network data - Contracts.Show_ID.translation", "res://Data/TV network data - Contracts.Person_ID.translation", "res://Data/TV network data - Contracts.Person.translation", "res://Data/TV network data - Contracts.Show.translation", "res://Data/TV network data - Contracts.SalaryPerEp.translation", "res://Data/TV network data - Contracts.ContractExpYears.translation", "res://Data/TV network data - Contracts.Role.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

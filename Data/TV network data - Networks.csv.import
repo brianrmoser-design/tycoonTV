@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bbdow36eqqhtu"
+
+[deps]
+
+files=["res://Data/TV network data - Networks.Network.translation"]
+
+source_file="res://Data/TV network data - Networks.csv"
+dest_files=["res://Data/TV network data - Networks.Network.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

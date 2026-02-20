@@ -1,0 +1,14 @@
+ShowType_ID,Type Name,Default Order,Production Frequency,Default Duration (mins)
+TYPE_01,Scripted Drama,22,Weekly (Sept-May),60
+TYPE_02,Scripted Comedy,24,Weekly (Sept-May),30
+TYPE_03,Late Night / Sketch,22,Weekly (Sept-May),60
+TYPE_04,Late Night / Variety,200,Daily (Year-Round),60
+TYPE_05,News / Evening,260,Daily (Year-Round),30
+TYPE_06,News / Morning,260,Daily (Year-Round),120
+TYPE_07,News / Weekly,50,Weekly (Year-Round),60
+TYPE_08,News / Late Night,260,Daily (Year-Round),30
+TYPE_09,News / Political,,,60
+TYPE_10,Reality,,,60
+TYPE_11,Reality Competition,15,Seasonal (Twice/Yr),60
+TYPE_12,Sports / Live,,,180
+TYPE_13,Talk Panel,13,Limited Run,60

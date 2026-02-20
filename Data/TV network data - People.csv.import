@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://15hmpdheflgn"
+
+[deps]
+
+files=["res://Data/TV network data - People.Name.translation", "res://Data/TV network data - People.DOB.translation", "res://Data/TV network data - People.Fame.translation", "res://Data/TV network data - People.Comedic Timing.translation", "res://Data/TV network data - People.Dramatic Gravitas.translation", "res://Data/TV network data - People.Physicality.translation", "res://Data/TV network data - People.Creative Vision.translation", "res://Data/TV network data - People.Talent Management.translation", "res://Data/TV network data - People.Network Diplomacy.translation"]
+
+source_file="res://Data/TV network data - People.csv"
+dest_files=["res://Data/TV network data - People.Name.translation", "res://Data/TV network data - People.DOB.translation", "res://Data/TV network data - People.Fame.translation", "res://Data/TV network data - People.Comedic Timing.translation", "res://Data/TV network data - People.Dramatic Gravitas.translation", "res://Data/TV network data - People.Physicality.translation", "res://Data/TV network data - People.Creative Vision.translation", "res://Data/TV network data - People.Talent Management.translation", "res://Data/TV network data - People.Network Diplomacy.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://j4pb5dal6ma"
+
+[deps]
+
+files=["res://Data/TV network data - Shows.Network_ID.translation", "res://Data/TV network data - Shows.ShowType_ID.translation", "res://Data/TV network data - Shows.Show Name.translation", "res://Data/TV network data - Shows.Years.translation", "res://Data/TV network data - Shows.Location.translation", "res://Data/TV network data - Shows.Duration (mins).translation", "res://Data/TV network data - Shows.Blocks (30m).translation"]
+
+source_file="res://Data/TV network data - Shows.csv"
+dest_files=["res://Data/TV network data - Shows.Network_ID.translation", "res://Data/TV network data - Shows.ShowType_ID.translation", "res://Data/TV network data - Shows.Show Name.translation", "res://Data/TV network data - Shows.Years.translation", "res://Data/TV network data - Shows.Location.translation", "res://Data/TV network data - Shows.Duration (mins).translation", "res://Data/TV network data - Shows.Blocks (30m).translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

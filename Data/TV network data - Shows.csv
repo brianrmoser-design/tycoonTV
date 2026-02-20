@@ -1,0 +1,63 @@
+Show ID,Network_ID,ShowType_ID,Show Name,Years,Location,Duration (mins),Blocks (30m)
+SHOW_102834,NET_04,TYPE_11,American Idol,7,"Los Angeles, CA",60,2
+SHOW_102835,NET_04,TYPE_10,Kitchen Nightmares,1,Various (USA),60,2
+SHOW_102839,NET_03,TYPE_04,The Tonight Show,54,"Burbank, CA",60,2
+SHOW_102938,NET_04,TYPE_01,24,6,"Los Angeles, CA",60,2
+SHOW_102939,NET_01,TYPE_01,Desperate Housewives,4,"Los Angeles, CA",60,2
+SHOW_119283,NET_01,TYPE_05,ABC World News Tonight,60,"New York City, NY",30,1
+SHOW_172830,NET_02,TYPE_04,The Late Late Show,13,"Los Angeles, CA",60,2
+SHOW_172839,NET_01,TYPE_06,Good Morning America,33,"New York City, NY",120,4
+SHOW_182930,NET_01,TYPE_01,Brothers & Sisters,2,"Los Angeles, CA",60,2
+SHOW_182934,NET_04,TYPE_03,MADtv,13,"Los Angeles, CA",60,2
+SHOW_182937,NET_01,TYPE_11,Wipeout,1,"Santa Clarita, CA",60,2
+SHOW_192830,NET_01,TYPE_01,Private Practice,1,"Los Angeles, CA",60,2
+SHOW_203941,NET_04,TYPE_01,Terminator: SCC,1,"Burbank, CA",60,2
+SHOW_203948,NET_03,TYPE_11,America's Got Talent,2,"Los Angeles, CA",60,2
+SHOW_263748,NET_03,TYPE_01,Friday Night Lights,2,"Austin, TX",60,2
+SHOW_283740,NET_01,TYPE_09,This Week,27,"Washington, D.C.",60,2
+SHOW_283746,NET_02,TYPE_01,CSI: Crime Scene,8,"Santa Clarita, CA",60,2
+SHOW_293840,NET_03,TYPE_01,Heroes,2,"Los Angeles, CA",60,2
+SHOW_293841,NET_03,TYPE_04,Late Night,26,"New York City, NY",60,2
+SHOW_293874,NET_02,TYPE_01,NCIS,5,"Santa Clarita, CA",60,2
+SHOW_364758,NET_03,TYPE_12,Sunday Night Football,2,Various (USA),180,6
+SHOW_374820,NET_01,TYPE_01,Lost,4,"Oahu, HI",60,2
+SHOW_374829,NET_04,TYPE_09,Fox News Sunday,12,"Washington, D.C.",60,2
+SHOW_384759,NET_03,TYPE_02,The Office,4,"Van Nuys, CA",30,1
+SHOW_384950,NET_03,TYPE_01,Chuck,1,"Burbank, CA",60,2
+SHOW_475820,NET_04,TYPE_01,Prison Break,3,"Los Angeles, CA",60,2
+SHOW_475829,NET_02,TYPE_02,How I Met Your Mother,3,"Los Angeles, CA",30,1
+SHOW_475830,NET_01,TYPE_02,Ugly Betty,2,"New York City, NY",30,1
+SHOW_475869,NET_02,TYPE_05,CBS Evening News,67,"New York City, NY",30,1
+SHOW_482910,NET_03,TYPE_05,Dateline,31,"New York City, NY",30,1
+SHOW_493827,NET_02,TYPE_09,Face the Nation,54,"Washington, D.C.",60,2
+SHOW_503928,NET_03,TYPE_05,NBC Nightly News,38,"New York City, NY",30,1
+SHOW_564738,NET_04,TYPE_01,Bones,3,"Los Angeles, CA",60,2
+SHOW_574839,NET_01,TYPE_13,The View,11,"New York City, NY",60,2
+SHOW_584721,NET_02,TYPE_02,The Big Bang Theory,1,"Burbank, CA",30,1
+SHOW_584729,NET_01,TYPE_02,Samantha Who?,1,"Los Angeles, CA",30,1
+SHOW_584736,NET_04,TYPE_01,Fringe,0,"New York City, NY",60,2
+SHOW_584739,NET_03,TYPE_02,30 Rock,2,"Queens, NY",30,1
+SHOW_584740,NET_02,TYPE_04,The Late Show,15,"New York City, NY",60,2
+SHOW_584930,NET_04,TYPE_01,House,4,"Century City, CA",60,2
+SHOW_596847,NET_02,TYPE_01,Criminal Minds,3,"Los Angeles, CA",60,2
+SHOW_637429,NET_02,TYPE_01,The Mentalist,0,"Los Angeles, CA",60,2
+SHOW_637485,NET_01,TYPE_01,Grey's Anatomy,4,"Los Angeles, CA",60,2
+SHOW_647321,NET_03,TYPE_06,Today,56,"New York City, NY",120,4
+SHOW_647389,NET_03,TYPE_09,Meet the Press,61,"Washington, D.C.",60,2
+SHOW_657382,NET_03,TYPE_04,Last Call with Carson Daly,6,"Burbank, CA",60,2
+SHOW_657483,NET_03,TYPE_01,ER,14,"Burbank, CA",60,2
+SHOW_736251,NET_01,TYPE_11,Dancing with the Stars,6,"Los Angeles, CA",60,2
+SHOW_736291,NET_01,TYPE_05,20/20,17,"New York City, NY",30,1
+SHOW_748290,NET_02,TYPE_11,Survivor,16,Gabon (Current),60,2
+SHOW_748293,NET_02,TYPE_11,Big Brother,9,"Studio City, CA",60,2
+SHOW_819203,NET_04,TYPE_02,Family Guy,6,"Los Angeles, CA",30,1
+SHOW_829304,NET_04,TYPE_02,The Simpsons,19,"Los Angeles, CA",30,1
+SHOW_837461,NET_01,TYPE_08,Nightline,28,"New York City, NY",30,1
+SHOW_839405,NET_02,TYPE_07,60 Minutes,40,"New York City, NY",60,2
+SHOW_839406,NET_01,TYPE_04,Jimmy Kimmel Live!,5,"Hollywood, CA",60,2
+SHOW_928310,NET_02,TYPE_06,The Early Show,9,"New York City, NY",120,4
+SHOW_928345,NET_03,TYPE_03,Saturday Night Live,33,"New York City, NY",60,2
+SHOW_928371,NET_03,TYPE_01,Law & Order: SVU,9,"North Bergen, NJ",60,2
+SHOW_928374,NET_01,TYPE_01,Boston Legal,4,"Manhattan Beach, CA",60,2
+SHOW_938472,NET_02,TYPE_02,Two and a Half Men,5,"Burbank, CA",30,1
+SHOW_938475,NET_02,TYPE_01,Ghost Whisperer,3,"Los Angeles, CA",60,2
